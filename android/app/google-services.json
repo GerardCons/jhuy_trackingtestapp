@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732296420284",
+    "project_id": "jhuy-env-test",
+    "storage_bucket": "jhuy-env-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732296420284:android:c7902a65edc62b610769b9",
+        "android_client_info": {
+          "package_name": "com.example.jhuy_trackingtestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCn7NVaXti_QcpdPmo9n8E44ktPe1L8BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
